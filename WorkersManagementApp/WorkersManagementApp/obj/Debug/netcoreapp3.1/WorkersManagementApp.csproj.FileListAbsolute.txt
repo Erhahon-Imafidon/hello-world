@@ -1,0 +1,13 @@
+C:\Users\IMAFIDON\Documents\C-SHARP\WorkersManagementApp\WorkersManagementApp\bin\Debug\netcoreapp3.1\WorkersManagementApp.exe
+C:\Users\IMAFIDON\Documents\C-SHARP\WorkersManagementApp\WorkersManagementApp\bin\Debug\netcoreapp3.1\WorkersManagementApp.deps.json
+C:\Users\IMAFIDON\Documents\C-SHARP\WorkersManagementApp\WorkersManagementApp\bin\Debug\netcoreapp3.1\WorkersManagementApp.runtimeconfig.json
+C:\Users\IMAFIDON\Documents\C-SHARP\WorkersManagementApp\WorkersManagementApp\bin\Debug\netcoreapp3.1\WorkersManagementApp.runtimeconfig.dev.json
+C:\Users\IMAFIDON\Documents\C-SHARP\WorkersManagementApp\WorkersManagementApp\bin\Debug\netcoreapp3.1\WorkersManagementApp.dll
+C:\Users\IMAFIDON\Documents\C-SHARP\WorkersManagementApp\WorkersManagementApp\bin\Debug\netcoreapp3.1\WorkersManagementApp.pdb
+C:\Users\IMAFIDON\Documents\C-SHARP\WorkersManagementApp\WorkersManagementApp\obj\Debug\netcoreapp3.1\WorkersManagementApp.csprojAssemblyReference.cache
+C:\Users\IMAFIDON\Documents\C-SHARP\WorkersManagementApp\WorkersManagementApp\obj\Debug\netcoreapp3.1\WorkersManagementApp.AssemblyInfoInputs.cache
+C:\Users\IMAFIDON\Documents\C-SHARP\WorkersManagementApp\WorkersManagementApp\obj\Debug\netcoreapp3.1\WorkersManagementApp.AssemblyInfo.cs
+C:\Users\IMAFIDON\Documents\C-SHARP\WorkersManagementApp\WorkersManagementApp\obj\Debug\netcoreapp3.1\WorkersManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\IMAFIDON\Documents\C-SHARP\WorkersManagementApp\WorkersManagementApp\obj\Debug\netcoreapp3.1\WorkersManagementApp.dll
+C:\Users\IMAFIDON\Documents\C-SHARP\WorkersManagementApp\WorkersManagementApp\obj\Debug\netcoreapp3.1\WorkersManagementApp.pdb
+C:\Users\IMAFIDON\Documents\C-SHARP\WorkersManagementApp\WorkersManagementApp\obj\Debug\netcoreapp3.1\WorkersManagementApp.genruntimeconfig.cache

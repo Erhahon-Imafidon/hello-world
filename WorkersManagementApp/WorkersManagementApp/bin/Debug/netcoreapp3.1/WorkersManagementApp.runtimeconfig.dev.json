@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\IMAFIDON\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\IMAFIDON\\.nuget\\packages"
+    ]
+  }
+}
